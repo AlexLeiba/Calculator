@@ -11,7 +11,7 @@ height: 70px;
 
 padding: 16px 8px;
 font-size: 25px;
-background-color: rgb(204, 219, 212);
+background-color: rgb(150, 240, 198);
 }
 
 .buttons{
@@ -34,19 +34,19 @@ background-color: rgb(204, 219, 212);
     text-align: center;
     font-size: 25px;
     cursor: pointer;
-    background-color: rgba(49, 68, 83, 0.808);
+    background-color: rgba(22, 39, 51, 0.808);
     font-weight: 700;
     color: mintcream;
 }
 
 
 .button:hover{
-    background-color: rgb(110, 153, 153);
+    background-color: rgb(98, 160, 131);
 }
 
 #equal{
     background-color: rgb(57, 168, 219);
 }
 #equal:hover{
-    background-color:rgb(69, 130, 158) ;
+    background-color:rgb(86, 146, 173) ;
 }
